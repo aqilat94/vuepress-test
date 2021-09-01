@@ -1,0 +1,19 @@
+{
+  "name": "test-vuepress",
+  "version": "0.0.1",
+  "description": "for testing",
+  "main": "index.js",
+  "authors": {
+    "name": "aqil",
+    "email": "aqilat94@gmail.com"
+  },
+  "repository": "/test-vuepress",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
